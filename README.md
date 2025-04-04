@@ -1,2 +1,2 @@
 # TradeData_Analysis
-This report presents an analysis of historical trade data from various Binance accounts over a 90-day period. The objective is to calculate key financial metrics, rank accounts based on performance, and provide a top 20 list of the best-performing accounts. 
+TradeData_Analysis is a Python-based project designed to analyze and evaluate trading performance from Binance accounts. It calculates important financial metrics such as ROI, PnL, Win Rate, Sharpe Ratio, and Maximum Drawdown for each account. The project ranks all accounts based on their performance and provides insights to identify the best-performing traders. It uses pandas, NumPy, and other data analysis libraries to process CSV trade data efficiently. 
